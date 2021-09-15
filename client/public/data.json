@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "pr-1",
+    "imageUrl": "https://static-01.daraz.pk/p/86a8de5d319c0cb92f2d92ecf52541ba.jpg_720x720q80.jpg_.webp",
+    "name":"Stylish Smart Watch",
+    "brand":{
+      "name":"Gucci"
+     
+    },
+    "description": "New Design Fashionable",
+    "price": 699
+  },{
+    "slug": "pr-2",
+    "imageUrl": "https://static-01.daraz.pk/p/f152dab93c418275ca77e38c1a795b22.jpg_720x720q80.jpg_.webp",
+    "name":"Men Digital Watches with Touch Sensor Electronic Watch",
+    "brand":{
+      "name":"Gucci"
+    },
+    "description": "New Design Fashionable. New Design Fashionable. New Design Fashionable. New Design Fashionable. New Design Fashionable.",
+    "price": 1299
+  },{
+    "slug": "pr-3",
+    "imageUrl": "https://static-01.daraz.pk/p/2601c2ade007f68d03a7adf3f8da6821.jpg_720x720q80.jpg_.webp",
+    "name":"Oxford Cotton Plain Polo T-Shirt For Men",
+    "brand":{
+      "name":"Polo"
+     
+    },
+    "description": "Cotton Polo, Plain T-Shirt, Charcoal",
+    "price": 3299
+  }
+]

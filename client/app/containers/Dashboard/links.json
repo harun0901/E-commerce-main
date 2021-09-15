@@ -1,0 +1,24 @@
+{
+  "ROLE_ADMIN": [
+    { "to": "/stats", "name": "Stats" },
+    { "to": "", "name": "Account Details" },
+    { "to": "/product", "name": "Manage Products" },
+    { "to": "/category", "name": "Manage Categories" },
+    { "to": "/brand", "name": "Manage Brands" },
+    { "to": "/users", "name": "Manage Users" },
+    { "to": "/orders", "name": "Manage Orders" },
+    { "to": "/chat", "name": "Chat" }
+
+  ],
+  "ROLE_MERCHANT": [
+    { "to": "/stats", "name": "Stats" },
+    { "to": "", "name": "Account Details" },
+    { "to": "/product", "name": "Manage Products" },
+    { "to": "/orders", "name": "Manage Orders" }
+  ],
+  "ROLE_MEMBER": [
+    { "to": "", "name": "Account Details" },
+    { "to": "/orders", "name": "Manage Orders" },
+    { "to": "/chat", "name": "Chat" }
+  ]
+}
